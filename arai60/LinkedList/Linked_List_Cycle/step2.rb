@@ -8,7 +8,6 @@
 # end
 
 # ウサギとカメのアルゴリズム(参考)
-
 # @param {ListNode} head
 # @return {Boolean}
 def hasCycle(head)
@@ -45,6 +44,8 @@ def hasCycle(head)
 end
 
 # 自分の考えた解法(2回目)
+# @param {ListNode} head
+# @return {Boolean}
 def hasCycle(head)
   visited = Set.new
   node = head
@@ -60,6 +61,8 @@ def hasCycle(head)
 end
 
 # 自分の考えた解法(3回目)
+# @param {ListNode} head
+# @return {Boolean}
 def hasCycle(head)
   visited = Set.new
   node = head
