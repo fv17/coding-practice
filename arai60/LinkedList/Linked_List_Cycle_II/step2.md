@@ -51,6 +51,7 @@ def process_user(user):
     send_welcome_mail(user)
 ```
 - 具体例：https://github.com/kazizi55/coding-challenges/pull/2#discussion_r2286870559
+- コメント集：https://docs.google.com/document/d/11HV35ADPo9QxJOpJQ24FcZvtvioli770WWdZZDaLOfg/edit?tab=t.0#heading=h.59zydabj6a98
 
 ## 計算時間を見積もる
 - まだ意識できていないので注意
